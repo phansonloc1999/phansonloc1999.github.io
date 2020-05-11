@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1589116942,
+	"version": 1589201569,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -7,14 +7,13 @@
 		"offlineClient.js",
 		"images/player-sheet0.png",
 		"images/player-sheet1.png",
+		"images/camera-sheet0.png",
 		"images/background1-sheet0.png",
 		"images/background2-sheet0.png",
 		"images/background3-sheet0.png",
 		"images/background4-sheet0.png",
 		"images/background5-sheet0.png",
-		"images/tilemap.png",
-		"media/bullet.m4a",
-		"media/bullet.ogg",
+		"images/ground.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
