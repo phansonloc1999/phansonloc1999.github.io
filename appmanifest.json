@@ -1,6 +1,6 @@
 ﻿{
-	"name": "Jungle",
-	"short_name": "Jungle",
+	"name": "My Game",
+	"short_name": "My Game",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "any",
