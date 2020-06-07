@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1591455339,
+	"version": 1591538691,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -17,6 +17,12 @@
 		"images/officebtn-sheet1.png",
 		"images/materialcollecttrigger-sheet0.png",
 		"images/title-sheet0.png",
+		"images/materialtruck-sheet0.png",
+		"images/togglemusicbtn-sheet0.png",
+		"images/togglemusicbtn-sheet1.png",
+		"images/togglesoundbtn-sheet0.png",
+		"images/togglesoundbtn-sheet1.png",
+		"images/showaboutbtn-sheet0.png",
 		"images/desk-sheet0.png",
 		"images/player-sheet0.png",
 		"images/slogan-sheet0.png",
